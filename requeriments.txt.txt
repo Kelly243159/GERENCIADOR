@@ -1,5 +1,0 @@
-pandas
-openpyxl
-fasthtml
-python-dateutil
-pywin32; platform_system == "Windows"
