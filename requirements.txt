@@ -3,3 +3,4 @@ pandas
 openpyxl
 starlette
 uvicorn
+python-multipart
