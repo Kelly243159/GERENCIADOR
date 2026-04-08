@@ -23,9 +23,9 @@ USE_TLS = os.getenv("USE_TLS", "True").lower() == "true"
 # -------------------------------------------------
 # Credenciais de Login (CONFIGURE VIA VARIÁVEIS DE AMBIENTE!)
 # -------------------------------------------------
-LOGIN_USER = os.getenv("LOGIN_USER", "admin")
-LOGIN_PASSWORD = os.getenv("LOGIN_PASSWORD", "changeme")
-SESSION_SECRET = os.getenv("SESSION_SECRET", hashlib.sha256(os.urandom(32)).hexdigest())
+LOGIN_USER = os.getenv("LOGIN_USER", "mvtec2026")
+LOGIN_PASSWORD = os.getenv("LOGIN_PASSWORD", "MV@@2026")
+SESSION_SECRET = os.getenv("SESSION_SECRET", hashlib.sha256(b"mv-contabilidade-secret-2026").hexdigest())
 
 
 # -------------------------------------------------
