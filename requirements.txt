@@ -4,3 +4,6 @@ openpyxl
 starlette
 uvicorn
 python-multipart
+streamlit
+numpy
+plotly
