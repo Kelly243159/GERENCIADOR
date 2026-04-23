@@ -1,9 +1,6 @@
-fasthtml
-pandas
-openpyxl
-starlette
-uvicorn
-python-multipart
 streamlit
+pandas
 numpy
 plotly
+openpyxl
+rapidfuzz  
