@@ -1,6 +1,4 @@
-streamlit
+python-fasthtml
 pandas
-numpy
-plotly
 openpyxl
-rapidfuzz  
+uvicorn
